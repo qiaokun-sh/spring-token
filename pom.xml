@@ -42,12 +42,6 @@
       <artifactId>jstl</artifactId>
       <version>1.2</version>
     </dependency>
-    <!--mysql驱动包-->
-    <dependency>
-      <groupId>mysql</groupId>
-      <artifactId>mysql-connector-java</artifactId>
-      <version>5.1.35</version>
-    </dependency>
 
     <!--springframework-->
     <dependency>
@@ -72,25 +66,6 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-test</artifactId>
       <version>4.2.6.RELEASE</version>
-    </dependency>
-
-    <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-jdbc</artifactId>
-      <version>4.2.6.RELEASE</version>
-    </dependency>
-
-    <dependency>
-      <groupId>com.github.stefanbirkner</groupId>
-      <artifactId>system-rules</artifactId>
-      <version>1.16.1</version>
-      <scope>test</scope>
-    </dependency>
-
-    <dependency>
-      <groupId>org.aspectj</groupId>
-      <artifactId>aspectjweaver</artifactId>
-      <version>1.8.9</version>
     </dependency>
 
     <dependency>
